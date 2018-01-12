@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GIFSearcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="api_key">eH6t37WRW0T6kNbKPMiu6ueJzhMypWMt</string>
+    <string name="text_hint_request">Введите запрос</string>
+    <string name="msg_error">Ошибка. Проверьте интернет-соединение</string>
+</resources>
