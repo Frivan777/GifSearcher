@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Инициализирует используемые view
+     * Инициализирует используемые view1
      */
     private void initView() {
         showFragment();
